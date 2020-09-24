@@ -1,6 +1,6 @@
 name: storage_module
 description: A new Flutter package project.
-version: 0.0.1
+version: 0.0.1-dev.1
 author:
 homepage:
 
@@ -12,11 +12,6 @@ dependencies:
   shared_preferences: 
   
   path_provider: 
-  path_provider_fde:
-    git:
-      url: git://github.com/google/flutter-desktop-embedding.git
-      path: plugins/flutter_plugins/path_provider_fde
-      ref: b9c7e27ba16f86ff3390cfb0e460802e9980399a
   flutter:
     sdk: flutter
 
